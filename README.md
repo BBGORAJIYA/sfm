@@ -1,2 +1,2 @@
-# sfm
+# SFM
 student fee management

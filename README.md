@@ -1,2 +1,2 @@
 # SFM
-student fee management
+Student Fee Management
